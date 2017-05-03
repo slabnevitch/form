@@ -1,0 +1,34 @@
+a {
+  color: tomato; }
+
+.wrapper {
+  border-top: 20px solid tomato; }
+
+.logo-wrap {
+  float: left; }
+
+.top-mnu {
+  float: right;
+  position: relative; }
+
+.sf-menu {
+  position: static;
+  float: none; }
+  .sf-menu li {
+    white-space: normal;
+    position: static; }
+
+#call-form {
+  display: inline-block;
+  max-width: 300px;
+  padding: 20px;
+  background-color: tomato; }
+  #call-form input {
+    display: block;
+    margin-bottom: 20px;
+    width: 100%; }
+
+.mfp-content {
+  text-align: center; }
+
+/*# sourceMappingURL=styles.css.map */
